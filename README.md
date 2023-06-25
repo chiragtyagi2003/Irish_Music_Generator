@@ -1,4 +1,4 @@
-# Irish_Music_Generator
+# Melodies - Irish_Music_Generator
 
 🎵 An introductory deep-learning project for generating Irish music using RNNs and LSTMs.
 
